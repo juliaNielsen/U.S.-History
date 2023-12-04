@@ -12,3 +12,4 @@ If you want to learn more, see my slideshow below!
 ## Presentation
 
 [Presentation](Shays Rebellion and Inflation.pdf)
+{{< pdf "Shays Rebellion and Inflation.pdf" width=100% height=800 >}}

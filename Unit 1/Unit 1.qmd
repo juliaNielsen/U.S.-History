@@ -16,3 +16,4 @@ Hello! I am Julia Nielsen and I am trying to spread awareness about the Indigeno
 ## Presentation
 
 [Ticuna CEI Product](Ticuna CEI Product.pdf)
+{{< pdf "Ticuna CEI Product.pdf" width=100% height=800 >}}
