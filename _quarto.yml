@@ -2,6 +2,23 @@ project:
   title: "U.S History - Ambassador Action"
   type: website
   output-dir: _site
-  
+website:
+  google-analytics: G-65YE52KN3L
+  navbar:
+    background: primary
+    search: true
+  sidebar: 
+    style: floating 
+    contents: 
+      - section: "Units"
+        contents: 
+          - "Unit 1/Unit 1.qmd"
+          - "Unit 2/Unit 2.qmd"
+          - "Unit 3.qmd"
+format: 
+  html:
+    theme: journal
+    
+
 
 

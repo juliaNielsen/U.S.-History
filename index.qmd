@@ -1,0 +1,8 @@
+---
+title: "U.S. Histroy Projects"
+subtitle: "A timeline"
+---
+
+- [Amazonian: Ticuna Tribe](Unit 1/Unit 1.qmd)
+- [Shays Rebellion and Inflation](Unit 2/Unit 2.qmd)
+- [Questionable Reform](Unit 3.qmd)
