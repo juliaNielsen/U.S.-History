@@ -1,5 +1,5 @@
 ---
-title: "U.S. Histroy Projects"
+title: "U.S. History Projects"
 subtitle: "A timeline"
 ---
 
