@@ -7,8 +7,8 @@ subtitle: "Unit 1"
 ## Overview
 
 Hello! I am Julia Nielsen and I am trying to spread awareness about the Indigenous tribe, Ticuna, for my U.S. History class.
- There is an artist named We'e'ena Ticuna who makes music on Spotify at this link. She bases her music on the traditional songs of her tribe. 
- There is also a virtual tour of the Museu Nacional in Brazil at this link. Here is the website of the museum. 
+ There is an artist named We'e'ena Ticuna who makes music on Spotify at this [link](https://open.spotify.com/track/1RTvXUOrSP8ITwqwOubDkO?si=10351d4227834e2&nd=1&dlsi=28cbccc8d7524ee8). She bases her music on the traditional songs of her tribe. 
+ There is also a virtual tour of the Museu Nacional in Brazil at this [link](https://museunacional.ufrj.br/dir/exposicoes/etnologia/brasil_ind.html). Here is the [website](https://www.hisour.com/brazilian-indigenous-ethnology-brazil-national-museum-digital-restoration-53737/#google_vignette) of the museum. 
  Thank you so much for exploring and appreciating this culture. 
 
  
